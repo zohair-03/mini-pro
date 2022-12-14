@@ -1,0 +1,6 @@
+python manage.py runserver
+
+python manage.py runserver --nothreading --noreload
+
+
+python manage.py migrate

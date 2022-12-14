@@ -1,5 +1,8 @@
 python manage.py runserver
 
+C:\Users\HP\Desktop\my-project\.venv\Scripts\activate.bat
+
+
 python manage.py runserver --nothreading --noreload
 
 
